@@ -1,2 +1,2 @@
 # NewProject
-Author-Sumayya
+Author-Sumayya Momin
